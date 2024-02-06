@@ -1,0 +1,491 @@
+{
+  "data": [
+    {
+      "id": "http://oparl.dresden.de/bodies/0001/papers/vo/26428",
+      "type": "https://schema.oparl.org/1.1/Paper",
+      "body": "http://oparl.dresden.de/bodies/0001",
+      "name": "Beschluss zum Antrag von der Sportgemeinschaft Mobschatz e. V. auf Zuwendung f?r die Festveranstaltung zum 60-j?hrigen Jubil?um des Sportvereins",
+      "reference": "V-MB0153/24",
+      "date": "2024-02-01",
+      "paperType": "Vorlage OS Mobschatz",
+      "mainFile": {
+        "id": "http://oparl.dresden.de/bodies/0001/files/733990",
+        "type": "https://schema.oparl.org/1.1/File",
+        "name": "Vorlage Mobschatz",
+        "fileName": "00733990.pdf",
+        "mimeType": "application/pdf",
+        "date": "2024-02-01",
+        "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00733990.pdf",
+        "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00733990.pdf",
+        "created": "2024-02-01T15:13:22+01:00",
+        "modified": "2024-02-02T10:43:12+01:00"
+      },
+      "auxiliaryFile": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/files/734161",
+          "type": "https://schema.oparl.org/1.1/File",
+          "name": "Sportgemeinschaft_Gr?ndungsurkunde",
+          "fileName": "00734161.pdf",
+          "mimeType": "application/pdf",
+          "date": "2024-02-02",
+          "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00734161.pdf",
+          "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00734161.pdf",
+          "created": "2024-02-02T12:18:32+01:00",
+          "modified": "2024-02-02T14:43:14+01:00"
+        },
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/files/734210",
+          "type": "https://schema.oparl.org/1.1/File",
+          "name": "V-MB0153_24_Projektdatenblatt",
+          "fileName": "00734210.pdf",
+          "mimeType": "application/pdf",
+          "date": "2024-02-02",
+          "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00734210.pdf",
+          "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00734210.pdf",
+          "created": "2024-02-02T14:58:52+01:00",
+          "modified": "2024-02-02T15:00:01+01:00"
+        }
+      ],
+      "underDirectionOf": [
+        "http://oparl.dresden.de/bodies/0001/organizations/at/41"
+      ],
+      "consultation": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/consultations/60595",
+          "type": "https://schema.oparl.org/1.1/Consultation",
+          "paper": "http://oparl.dresden.de/bodies/0001/papers/vo/26428",
+          "agendaItem": "http://oparl.dresden.de/bodies/0001/agendaitems/197620",
+          "meeting": "http://oparl.dresden.de/bodies/0001/meetings/13791",
+          "organization": [
+            "http://oparl.dresden.de/bodies/0001/organizations/gr/45"
+          ],
+          "role": "beschlie?end",
+          "created": "2024-02-01T16:06:02+01:00",
+          "modified": "2024-02-01T17:21:10+01:00"
+        }
+      ],
+      "created": "2024-02-01T15:12:53+01:00",
+      "modified": "2024-02-02T10:43:11+01:00"
+    },
+    {
+      "id": "http://oparl.dresden.de/bodies/0001/papers/vo/26426",
+      "type": "https://schema.oparl.org/1.1/Paper",
+      "body": "http://oparl.dresden.de/bodies/0001",
+      "name": "Weitere Finanzmittel bzgl. Entsorgungskosten Spielplatz Asternweg/Kolpingstra?e an das Fachamt",
+      "reference": "V-CB0203/24",
+      "date": "2024-02-01",
+      "paperType": "Vorlage OS Cossebaude",
+      "mainFile": {
+        "id": "http://oparl.dresden.de/bodies/0001/files/733973",
+        "type": "https://schema.oparl.org/1.1/File",
+        "name": "Vorlage Cossebaude",
+        "fileName": "00733973.pdf",
+        "mimeType": "application/pdf",
+        "date": "2024-02-01",
+        "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00733973.pdf",
+        "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00733973.pdf",
+        "created": "2024-02-01T14:59:34+01:00",
+        "modified": "2024-02-01T15:12:58+01:00"
+      },
+      "underDirectionOf": [
+        "http://oparl.dresden.de/bodies/0001/organizations/at/34"
+      ],
+      "consultation": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/consultations/60582",
+          "type": "https://schema.oparl.org/1.1/Consultation",
+          "paper": "http://oparl.dresden.de/bodies/0001/papers/vo/26426",
+          "agendaItem": "http://oparl.dresden.de/bodies/0001/agendaitems/197604",
+          "meeting": "http://oparl.dresden.de/bodies/0001/meetings/13813",
+          "organization": [
+            "http://oparl.dresden.de/bodies/0001/organizations/gr/46"
+          ],
+          "role": "beschlie?end",
+          "created": "2024-02-01T15:13:20+01:00",
+          "modified": "2024-02-01T15:13:20+01:00"
+        }
+      ],
+      "created": "2024-02-01T14:59:23+01:00",
+      "modified": "2024-02-01T15:12:58+01:00"
+    },
+    {
+      "id": "http://oparl.dresden.de/bodies/0001/papers/vo/26423",
+      "type": "https://schema.oparl.org/1.1/Paper",
+      "body": "http://oparl.dresden.de/bodies/0001",
+      "name": "Finanzmittel f?r Pflegeauftrag am Gnomenstieg an das Fachamt",
+      "reference": "V-CB0202/24",
+      "date": "2024-02-01",
+      "paperType": "Vorlage OS Cossebaude",
+      "mainFile": {
+        "id": "http://oparl.dresden.de/bodies/0001/files/733956",
+        "type": "https://schema.oparl.org/1.1/File",
+        "name": "Vorlage Cossebaude",
+        "fileName": "00733956.pdf",
+        "mimeType": "application/pdf",
+        "date": "2024-02-01",
+        "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00733956.pdf",
+        "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00733956.pdf",
+        "created": "2024-02-01T14:27:09+01:00",
+        "modified": "2024-02-01T14:52:18+01:00"
+      },
+      "underDirectionOf": [
+        "http://oparl.dresden.de/bodies/0001/organizations/at/34"
+      ],
+      "consultation": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/consultations/60577",
+          "type": "https://schema.oparl.org/1.1/Consultation",
+          "paper": "http://oparl.dresden.de/bodies/0001/papers/vo/26423",
+          "agendaItem": "http://oparl.dresden.de/bodies/0001/agendaitems/197603",
+          "meeting": "http://oparl.dresden.de/bodies/0001/meetings/13813",
+          "organization": [
+            "http://oparl.dresden.de/bodies/0001/organizations/gr/46"
+          ],
+          "role": "beschlie?end",
+          "created": "2024-02-01T14:49:07+01:00",
+          "modified": "2024-02-01T14:49:07+01:00"
+        }
+      ],
+      "created": "2024-02-01T14:26:49+01:00",
+      "modified": "2024-02-01T14:52:18+01:00"
+    },
+    {
+      "id": "http://oparl.dresden.de/bodies/0001/papers/vo/26422",
+      "type": "https://schema.oparl.org/1.1/Paper",
+      "body": "http://oparl.dresden.de/bodies/0001",
+      "name": "Finanzmittel f?r Rodung und Entferung Kn?terichs am Gnomenstieg an das Fachamt",
+      "reference": "V-CB0201/24",
+      "date": "2024-02-01",
+      "paperType": "Vorlage OS Cossebaude",
+      "mainFile": {
+        "id": "http://oparl.dresden.de/bodies/0001/files/733942",
+        "type": "https://schema.oparl.org/1.1/File",
+        "name": "Vorlage Cossebaude",
+        "fileName": "00733942.pdf",
+        "mimeType": "application/pdf",
+        "date": "2024-02-01",
+        "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00733942.pdf",
+        "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00733942.pdf",
+        "created": "2024-02-01T14:00:05+01:00",
+        "modified": "2024-02-01T14:21:20+01:00"
+      },
+      "underDirectionOf": [
+        "http://oparl.dresden.de/bodies/0001/organizations/at/34"
+      ],
+      "consultation": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/consultations/60575",
+          "type": "https://schema.oparl.org/1.1/Consultation",
+          "paper": "http://oparl.dresden.de/bodies/0001/papers/vo/26422",
+          "agendaItem": "http://oparl.dresden.de/bodies/0001/agendaitems/197601",
+          "meeting": "http://oparl.dresden.de/bodies/0001/meetings/13813",
+          "organization": [
+            "http://oparl.dresden.de/bodies/0001/organizations/gr/46"
+          ],
+          "role": "beschlie?end",
+          "created": "2024-02-01T14:21:31+01:00",
+          "modified": "2024-02-01T14:21:31+01:00"
+        }
+      ],
+      "created": "2024-02-01T13:59:43+01:00",
+      "modified": "2024-02-01T14:21:20+01:00"
+    },
+    {
+      "id": "http://oparl.dresden.de/bodies/0001/papers/vo/26420",
+      "type": "https://schema.oparl.org/1.1/Paper",
+      "body": "http://oparl.dresden.de/bodies/0001",
+      "name": "Antrag auf Gew?hrung einer Zuwendung der Sportgemeinschaft Mobschatz e. V. f?r die Miete zur Nutzung der Turnhalle in der 77. Grundschule zum w?chentlichen Training 2024",
+      "reference": "V-MB0152/24",
+      "date": "2024-02-01",
+      "paperType": "Vorlage OS Mobschatz",
+      "mainFile": {
+        "id": "http://oparl.dresden.de/bodies/0001/files/733772",
+        "type": "https://schema.oparl.org/1.1/File",
+        "name": "Vorlage Mobschatz",
+        "fileName": "00733772.pdf",
+        "mimeType": "application/pdf",
+        "date": "2024-02-01",
+        "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00733772.pdf",
+        "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00733772.pdf",
+        "created": "2024-01-31T16:27:37+01:00",
+        "modified": "2024-02-02T10:45:59+01:00"
+      },
+      "auxiliaryFile": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/files/734211",
+          "type": "https://schema.oparl.org/1.1/File",
+          "name": "V-MB0152_24_Projektdatenblatt",
+          "fileName": "00734211.pdf",
+          "mimeType": "application/pdf",
+          "date": "2024-02-02",
+          "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00734211.pdf",
+          "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00734211.pdf",
+          "created": "2024-02-02T14:59:18+01:00",
+          "modified": "2024-02-02T14:59:45+01:00"
+        }
+      ],
+      "underDirectionOf": [
+        "http://oparl.dresden.de/bodies/0001/organizations/at/41"
+      ],
+      "consultation": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/consultations/60565",
+          "type": "https://schema.oparl.org/1.1/Consultation",
+          "paper": "http://oparl.dresden.de/bodies/0001/papers/vo/26420",
+          "agendaItem": "http://oparl.dresden.de/bodies/0001/agendaitems/197612",
+          "meeting": "http://oparl.dresden.de/bodies/0001/meetings/13791",
+          "organization": [
+            "http://oparl.dresden.de/bodies/0001/organizations/gr/45"
+          ],
+          "role": "beschlie?end",
+          "created": "2024-02-01T15:32:43+01:00",
+          "modified": "2024-02-01T17:21:04+01:00"
+        }
+      ],
+      "created": "2024-01-31T16:27:06+01:00",
+      "modified": "2024-02-02T10:45:59+01:00"
+    },
+    {
+      "id": "http://oparl.dresden.de/bodies/0001/papers/vo/26419",
+      "type": "https://schema.oparl.org/1.1/Paper",
+      "body": "http://oparl.dresden.de/bodies/0001",
+      "name": "?bertragung von finanziellen Mitteln f?r die Ersatzpflanzung von Obstb?umen entlang des ?ffentlichen Weges ?W 4 - Mobschatz an das Amt f?r Stadtgr?n und Abfallwirtschaft",
+      "reference": "V-MB0151/24",
+      "date": "2024-02-01",
+      "paperType": "Vorlage OS Mobschatz",
+      "mainFile": {
+        "id": "http://oparl.dresden.de/bodies/0001/files/733788",
+        "type": "https://schema.oparl.org/1.1/File",
+        "name": "Vorlage Mobschatz",
+        "fileName": "00733788.pdf",
+        "mimeType": "application/pdf",
+        "date": "2024-01-31",
+        "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00733788.pdf",
+        "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00733788.pdf",
+        "created": "2024-01-31T16:50:07+01:00",
+        "modified": "2024-02-02T10:45:17+01:00"
+      },
+      "underDirectionOf": [
+        "http://oparl.dresden.de/bodies/0001/organizations/at/41"
+      ],
+      "consultation": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/consultations/60566",
+          "type": "https://schema.oparl.org/1.1/Consultation",
+          "paper": "http://oparl.dresden.de/bodies/0001/papers/vo/26419",
+          "agendaItem": "http://oparl.dresden.de/bodies/0001/agendaitems/197592",
+          "meeting": "http://oparl.dresden.de/bodies/0001/meetings/13791",
+          "organization": [
+            "http://oparl.dresden.de/bodies/0001/organizations/gr/45"
+          ],
+          "role": "beschlie?end",
+          "created": "2024-01-31T18:37:49+01:00",
+          "modified": "2024-02-01T16:06:53+01:00"
+        }
+      ],
+      "created": "2024-01-31T16:20:29+01:00",
+      "modified": "2024-02-02T10:45:17+01:00"
+    },
+    {
+      "id": "http://oparl.dresden.de/bodies/0001/papers/vo/26415",
+      "type": "https://schema.oparl.org/1.1/Paper",
+      "body": "http://oparl.dresden.de/bodies/0001",
+      "name": "Stra?enreinigungsgeb?hrensatzung (SRGS) 2025/26",
+      "reference": "V-AF0090/24",
+      "date": "2024-02-01",
+      "paperType": "Vorlage OS Altfranken",
+      "mainFile": {
+        "id": "http://oparl.dresden.de/bodies/0001/files/733647",
+        "type": "https://schema.oparl.org/1.1/File",
+        "name": "Vorlage Altfranken",
+        "fileName": "00733647.pdf",
+        "mimeType": "application/pdf",
+        "date": "2024-01-31",
+        "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00733647.pdf",
+        "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00733647.pdf",
+        "created": "2024-01-31T10:40:50+01:00",
+        "modified": "2024-02-01T14:55:53+01:00"
+      },
+      "underDirectionOf": [
+        "http://oparl.dresden.de/bodies/0001/organizations/at/33"
+      ],
+      "consultation": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/consultations/60559",
+          "type": "https://schema.oparl.org/1.1/Consultation",
+          "paper": "http://oparl.dresden.de/bodies/0001/papers/vo/26415",
+          "agendaItem": "http://oparl.dresden.de/bodies/0001/agendaitems/197420",
+          "meeting": "http://oparl.dresden.de/bodies/0001/meetings/13780",
+          "organization": [
+            "http://oparl.dresden.de/bodies/0001/organizations/gr/49"
+          ],
+          "role": "beschlie?end",
+          "created": "2024-01-31T12:31:23+01:00",
+          "modified": "2024-01-31T12:31:23+01:00"
+        }
+      ],
+      "created": "2024-01-31T10:40:24+01:00",
+      "modified": "2024-02-01T14:55:53+01:00"
+    },
+    {
+      "id": "http://oparl.dresden.de/bodies/0001/papers/vo/26414",
+      "type": "https://schema.oparl.org/1.1/Paper",
+      "body": "http://oparl.dresden.de/bodies/0001",
+      "name": "Finanzierung der Aktion Sauberes Altfranken 2024",
+      "reference": "V-AF0089/24",
+      "date": "2024-02-05",
+      "paperType": "Vorlage OS Altfranken",
+      "mainFile": {
+        "id": "http://oparl.dresden.de/bodies/0001/files/733622",
+        "type": "https://schema.oparl.org/1.1/File",
+        "name": "Vorlage Altfranken",
+        "fileName": "00733622.pdf",
+        "mimeType": "application/pdf",
+        "date": "2024-02-05",
+        "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00733622.pdf",
+        "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00733622.pdf",
+        "created": "2024-01-31T10:14:05+01:00",
+        "modified": "2024-02-05T11:44:03+01:00"
+      },
+      "underDirectionOf": [
+        "http://oparl.dresden.de/bodies/0001/organizations/at/33"
+      ],
+      "consultation": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/consultations/60558",
+          "type": "https://schema.oparl.org/1.1/Consultation",
+          "paper": "http://oparl.dresden.de/bodies/0001/papers/vo/26414",
+          "agendaItem": "http://oparl.dresden.de/bodies/0001/agendaitems/197418",
+          "meeting": "http://oparl.dresden.de/bodies/0001/meetings/13780",
+          "organization": [
+            "http://oparl.dresden.de/bodies/0001/organizations/gr/49"
+          ],
+          "role": "beschlie?end",
+          "created": "2024-01-31T11:24:41+01:00",
+          "modified": "2024-01-31T11:24:41+01:00"
+        }
+      ],
+      "created": "2024-01-31T10:13:31+01:00",
+      "modified": "2024-02-05T11:44:03+01:00"
+    },
+    {
+      "id": "http://oparl.dresden.de/bodies/0001/papers/vo/26412",
+      "type": "https://schema.oparl.org/1.1/Paper",
+      "body": "http://oparl.dresden.de/bodies/0001",
+      "name": "Finanzmittel f?r Erwerb einer Telefonzelle als \"B?chertauschort\" an Heimat- und Versch?nerungsverein Cossebaude e.V.",
+      "reference": "V-CB0200/24",
+      "date": "2024-01-30",
+      "paperType": "Vorlage OS Cossebaude",
+      "mainFile": {
+        "id": "http://oparl.dresden.de/bodies/0001/files/733527",
+        "type": "https://schema.oparl.org/1.1/File",
+        "name": "Vorlage Cossebaude",
+        "fileName": "00733527.pdf",
+        "mimeType": "application/pdf",
+        "date": "2024-01-30",
+        "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00733527.pdf",
+        "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00733527.pdf",
+        "created": "2024-01-30T17:00:22+01:00",
+        "modified": "2024-01-30T17:02:14+01:00"
+      },
+      "auxiliaryFile": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/files/733559",
+          "type": "https://schema.oparl.org/1.1/File",
+          "name": "Projektdatenblatt",
+          "fileName": "00733559.pdf",
+          "mimeType": "application/pdf",
+          "date": "2024-01-30",
+          "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00733559.pdf",
+          "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00733559.pdf",
+          "created": "2024-01-30T18:04:52+01:00",
+          "modified": "2024-01-30T18:04:52+01:00"
+        }
+      ],
+      "underDirectionOf": [
+        "http://oparl.dresden.de/bodies/0001/organizations/at/34"
+      ],
+      "consultation": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/consultations/60551",
+          "type": "https://schema.oparl.org/1.1/Consultation",
+          "paper": "http://oparl.dresden.de/bodies/0001/papers/vo/26412",
+          "agendaItem": "http://oparl.dresden.de/bodies/0001/agendaitems/197405",
+          "meeting": "http://oparl.dresden.de/bodies/0001/meetings/13813",
+          "organization": [
+            "http://oparl.dresden.de/bodies/0001/organizations/gr/46"
+          ],
+          "role": "beschlie?end",
+          "created": "2024-01-30T17:03:11+01:00",
+          "modified": "2024-01-31T11:24:22+01:00"
+        }
+      ],
+      "created": "2024-01-30T16:59:49+01:00",
+      "modified": "2024-01-30T17:02:14+01:00"
+    },
+    {
+      "id": "http://oparl.dresden.de/bodies/0001/papers/vo/26411",
+      "type": "https://schema.oparl.org/1.1/Paper",
+      "body": "http://oparl.dresden.de/bodies/0001",
+      "name": "Finanzmittel f?r Vereinsarbeit an Heimat- und Versch?nerungsverein Cossebaude e.V.",
+      "reference": "V-CB0199/24",
+      "date": "2024-01-30",
+      "paperType": "Vorlage OS Cossebaude",
+      "mainFile": {
+        "id": "http://oparl.dresden.de/bodies/0001/files/733519",
+        "type": "https://schema.oparl.org/1.1/File",
+        "name": "Vorlage Cossebaude",
+        "fileName": "00733519.pdf",
+        "mimeType": "application/pdf",
+        "date": "2024-01-30",
+        "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00733519.pdf",
+        "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00733519.pdf",
+        "created": "2024-01-30T16:55:08+01:00",
+        "modified": "2024-01-30T16:58:32+01:00"
+      },
+      "auxiliaryFile": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/files/733558",
+          "type": "https://schema.oparl.org/1.1/File",
+          "name": "Projektdatenblatt",
+          "fileName": "00733558.pdf",
+          "mimeType": "application/pdf",
+          "date": "2024-01-30",
+          "accessUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/a/00733558.pdf",
+          "downloadUrl": "http://oparl.dresden.de/bodies/0001/downloadfiles/00733558.pdf",
+          "created": "2024-01-30T18:02:12+01:00",
+          "modified": "2024-01-30T18:02:12+01:00"
+        }
+      ],
+      "underDirectionOf": [
+        "http://oparl.dresden.de/bodies/0001/organizations/at/34"
+      ],
+      "consultation": [
+        {
+          "id": "http://oparl.dresden.de/bodies/0001/consultations/60550",
+          "type": "https://schema.oparl.org/1.1/Consultation",
+          "paper": "http://oparl.dresden.de/bodies/0001/papers/vo/26411",
+          "agendaItem": "http://oparl.dresden.de/bodies/0001/agendaitems/197404",
+          "meeting": "http://oparl.dresden.de/bodies/0001/meetings/13813",
+          "organization": [
+            "http://oparl.dresden.de/bodies/0001/organizations/gr/46"
+          ],
+          "role": "beschlie?end",
+          "created": "2024-01-30T16:58:45+01:00",
+          "modified": "2024-01-31T11:24:22+01:00"
+        }
+      ],
+      "created": "2024-01-30T16:54:51+01:00",
+      "modified": "2024-01-30T16:58:32+01:00"
+    }
+  ],
+  "pagination": {
+    "elementsPerPage": 10,
+    "currentPage": 1
+  },
+  "links": {
+    "first": "http://oparl.dresden.de/bodies/0001/papers",
+    "self": "http://oparl.dresden.de/bodies/0001/papers",
+    "next": "http://oparl.dresden.de/bodies/0001/papers?page=2"
+  }
+}
